@@ -27,8 +27,15 @@ A prototype allows you to conduct user research
 ---
 A prototype is a real thing that serves a real purpose
 ---
+### My favorite definition
 A prototype is a piece of the future, it brings an element of the future into our present, so that we can discover the impact it will have.
-(this has technical, ethical and managerial consequences)
+_(this has technical, ethical and managerial consequences)_
+---
+If your project has an aspect that you don't know how to do, that's what you should prototype first.
+---
+If you think that something in your project might not work, prototype that too.
+---
+A prototype may or may not encompass all aspects of a project. Sometimes you only need to prototype certain aspects of your project, other times you need to prototype the entire design.
 ---
 ## A prototype is very powerful
 Its capacity of bringing a piece of the future into the present can be regarded as giving the prototype almost a magical quality. It allows us to discuss a future that is within reach
@@ -36,12 +43,12 @@ Its capacity of bringing a piece of the future into the present can be regarded 
 ![dyson vacuum cleaner](http://dealizon.com/images/2012/05/dyson-dc32-bagless-cylinder-vacuum-cleaner1.jpg)
 James Dyson made 5127 prototypes of his vacuum cleaner before he was satisfied that he’d gotten it right
 ---
-## A prototype let's you think with your hands
+### A prototype let's you think with your hands
 ---
-## A prototype answers questions
+### A prototype answers questions
 like for example
 ---
-## A prototype responds for its own **viability**
+#### A prototype responds for its own **viability**
 this means that it tackles the toughest aspect of your project FIRST. So that you can answer the most basic question.
 
 _can this design be carried out?_
