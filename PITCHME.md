@@ -57,19 +57,22 @@ A prototype should allow us to ask practical questions such as:
 - how can we make 3,000 of these? and 300,000? and 5 million?
 - how do people use this design? or how do people experience this design?
 - does this design address the users needs and wants?
+---
+Practical questions (continued):
 - what other purposes can this design be used for?
 - in what ways can this design go wrong?
 - how do we encourage or discourage unintended uses?
 - can it be made safe, secure, vandal-proof, waterproof, etc.?
 - does this design degrade gracefully?
 ---
-A prototype, because of its quality of bringing the future into the present,
-also lets us ask ethical questions such as:
+A prototype also lets us ask ethical questions:
 - who can and cannot use this product?
 - who are we leaving out with this design?
 - who benefits directly from this design?
 - who makes profit from it and from whom is that profit made?
 - what people/forms of labor are displaced by the presence of this product/design?
+---
+ethical questions (cont'ed.):
 - how does this design alter the world as we know it?
 - can it be repaired?
 - what is the most immediate impact that this prototype can have?
