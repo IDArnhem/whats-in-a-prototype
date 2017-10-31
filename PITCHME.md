@@ -78,6 +78,8 @@ ethical questions (cont'ed.):
 - what is the most immediate impact that this prototype can have?
 - what can we predict about the future from that impact?
 - how can we present these speculative thoughts without raising unreasonable expectations?
+---
+ethical questions (cont'ed.):
 - how does the supply-side of the materials used for this design deal with their own ethical questions?
 - what happens to this product when it reaches its end of life?
 ---
