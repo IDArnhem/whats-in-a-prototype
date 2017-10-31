@@ -83,3 +83,4 @@ ethical questions (cont'ed.):
 - how does the supply-side of the materials used for this design deal with their own ethical questions?
 - what happens to this product when it reaches its end of life?
 ---
+And you!? What do you prototype for? :)
