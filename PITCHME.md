@@ -1,4 +1,4 @@
-## Prototypes
+## Prototyping
 _all design is nothing but talk before the prototype exists_
 ---
 ## What is a prototype?
